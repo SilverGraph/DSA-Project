@@ -1,0 +1,3 @@
+apple - fruit
+boy - human
+cat - animal
